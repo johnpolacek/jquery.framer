@@ -6,7 +6,7 @@ jQuery Framer
 
 jQuery Framer is built upon fine work done by others like <a href="http://mattkersley.com/responsive/">Matt Kersley</a>, <a href="http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet/">Benjamin Keen</a> and <a href="https://gist.github.com/1685127">lensco</a>.
 
-See it in action on [Responsivator!](http://dfcb.github.com/responsivator)
+See it in action on [Responsivator!](http://dfcb.github.com/Responsivator)
 
 
 **USAGE**
