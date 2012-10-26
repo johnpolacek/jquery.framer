@@ -35,7 +35,7 @@
     Dual licensed under MIT and GPL.
 */
 
-;(function($) {
+(function($) {
 
     $.Framer = function(options) {
 
